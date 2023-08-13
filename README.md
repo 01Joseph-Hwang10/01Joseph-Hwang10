@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+- 🌱 Portfolio: Check out the link on the left side!
+- 🔭 I’m currently working on [Shepherd23](https://www.shepherd23.com/)
+- ⚡ I’m currently developing [PickHound](https://store.cafe24.com/kr/apps/17367): Product recommendation system based on Contextual Bandit for online shopping malls
+- 📫 How to reach me: hghwang@unist.ac.kr
+- 🧰 Skills: JS/TS, Python, React, NestJS, Cloud Computing
+- 🤔 Interests: Start-ups, SaaS, DevTools, Platforms
+
 ![01Joseph-Hwang10's GitHub stats](https://github-readme-stats.vercel.app/api?username=01Joseph-Hwang10\&show_icons=true\&rank_icon=github)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=01Joseph-Hwang10\&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
