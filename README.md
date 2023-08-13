@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+![01Joseph-Hwang10's GitHub stats](https://github-readme-stats.vercel.app/api?username=01Joseph-Hwang10\&show_icons=true)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=01Joseph-Hwang10\&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=01Joseph-Hwang10&row=1)](https://github.com/ryo-ma/github-profile-trophy)
+
 <!--
 **01Joseph-Hwang10/01Joseph-Hwang10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
