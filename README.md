@@ -4,6 +4,7 @@
 - 🔭 I’m currently working on [Shepherd23](https://www.shepherd23.com/)
 - ⚡ I’m currently developing [PickHound](https://store.cafe24.com/kr/apps/17367): Product recommendation system based on Contextual Bandit for online shopping malls
 - 📫 How to reach me: hghwang@unist.ac.kr
+- 💻 [LeetCode Profile](https://leetcode.com/01Joseph-Hwang10/)
 - 🧰 Skills: JS/TS, Python, React, NestJS, Cloud Computing
 - 🤔 Interests: Start-ups, SaaS, DevTools, Platforms
 
