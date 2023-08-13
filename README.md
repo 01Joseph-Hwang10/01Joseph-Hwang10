@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🌱 Portfolio: Check out the link on the left side!
+- 🌱 [My Portfolio](https://tidal-star-7e8.notion.site/s-portfolio-c7c95de81d114327b0451a04723d3efa)
 - 🔭 I’m currently working on [Shepherd23](https://www.shepherd23.com/)
 - ⚡ I’m currently developing [PickHound](https://store.cafe24.com/kr/apps/17367): Product recommendation system based on Contextual Bandit for online shopping malls
 - 📫 How to reach me: hghwang@unist.ac.kr
