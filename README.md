@@ -3,7 +3,7 @@
 - 🌱 [My Portfolio](https://01joseph-hwang10.github.io/)
 - 🔭 I’m currently working on [Shepherd23](https://www.shepherd23.com/)
 - 📫 How to reach me: hghwang@unist.ac.kr
-- 🧰 Skills: JS/TS, Python, React, NodeJS, AWS/GCP
+- 🧰 Skills: JS/TS, Python, React, NodeJS, GCP/AWS
 - 🤔 Interests: Start-ups, SaaS, DevTools, Platforms
 
 ![01Joseph-Hwang10's GitHub stats](https://github-readme-stats.vercel.app/api?username=01Joseph-Hwang10\&show_icons=true\&rank_icon=github)
