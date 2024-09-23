@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🌱 [Resume](https://tidal-star-7e8.notion.site/Joseph-Hwang-108b5d158ec580cc9563d93fa3375b1a#10ab5d158ec580b48b5fdfd1999ded18)
+- 🌱 [About Me](https://tidal-star-7e8.notion.site/Joseph-Hwang-108b5d158ec580cc9563d93fa3375b1a#10ab5d158ec580b48b5fdfd1999ded18)
 - 📫 How to reach me: hghwang@unist.ac.kr
 - 🧰 Skills: Python, Typescript, GCP, Market Research, Operations Management
 - 🤔 Interests: SaaS, DevTools, Lean Process Management
