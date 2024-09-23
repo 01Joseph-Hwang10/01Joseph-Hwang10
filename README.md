@@ -1,10 +1,9 @@
 ### Hi there 👋
 
-- 🌱 [My Portfolio](https://01joseph-hwang10.github.io/)
-- 🔭 I’m currently working on [Shepherd23](https://www.shepherd23.com/)
+- 🌱 [Resume](https://tidal-star-7e8.notion.site/Joseph-Hwang-108b5d158ec580cc9563d93fa3375b1a#10ab5d158ec580b48b5fdfd1999ded18)
 - 📫 How to reach me: hghwang@unist.ac.kr
-- 🧰 Skills: JS/TS, Python, React, NodeJS, GCP/AWS
-- 🤔 Interests: Start-ups, SaaS, DevTools, Platforms
+- 🧰 Skills: Python, Typescript, GCP, Market Research, Operations Management
+- 🤔 Interests: SaaS, DevTools, Lean Process Management
 
 ![01Joseph-Hwang10's GitHub stats](https://github-readme-stats.vercel.app/api?username=01Joseph-Hwang10\&show_icons=true\&rank_icon=github)
 
